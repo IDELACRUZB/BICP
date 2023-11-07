@@ -1,0 +1,21 @@
+{
+    "blindaje": {
+        "salesForce": [
+            {
+                "campaign" : "blindaje",
+                "reports" : [
+                    {
+                        "code": "blindaje_Retenciones",
+                        "properties": {
+                            "dbType": {
+                                
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
